@@ -1,2 +1,3 @@
-# ATENÇÂO
-### Por favor não copiem
+# ATENÇãO
+### Por favor não copiem 😭😭😭😭😭😭😭
+ 
