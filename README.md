@@ -3,3 +3,4 @@
 
 ### Comentários totalmente relevantes Vol.1:
 - PH: o homi é foda. Não copiem, dá mó b.o. issae
+- Bia: arrasou, vinicius
