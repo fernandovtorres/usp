@@ -4,3 +4,7 @@
 ### Comentários totalmente relevantes Vol.1:
 - PH: o homi é foda. Não copiem, dá mó b.o. issae
 - Bia: arrasou, vinicius
+- Alék: meu segundo carioca favorito
+- Daniel: dale daaale dale ô dale dale dale ô eu sou palmeiras sim senhor
+- Artur: o vinicius é mt legal e entende l.i.
+- jhonatan: compila no palacio mental.
