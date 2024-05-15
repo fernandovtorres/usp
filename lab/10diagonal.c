@@ -8,8 +8,8 @@ int main(){
         for(int j = 0; j < n; j++) {
             scanf(" %d", &matriz1[i][j]);
             printf("%d ", matriz1[i][j]);
-            if(i != j && matriz1[i][j] != 0) diagonal1 = 0;
-            else if (i == j && matriz1[i][j] == 0) diagonal1 = 0;
+            if(i != j && matriz1[i][j] != 0 && diagonal1) diagonal1 = 0;
+            else if (i == j && matriz1[i][j] == 0 && diagonal1) diagonal1 = 0;
         }
         printf("\n");
     }
@@ -17,8 +17,8 @@ int main(){
         for(int j = 0; j < m; j++) {
             scanf(" %d", &matriz2[i][j]);
             printf("%d ", matriz2[i][j]);
-            if(i != j && matriz2[i][j] != 0) diagonal2 = 0;
-            else if (i == j && matriz2[i][j] == 0) diagonal2 = 0;
+            if(i != j && matriz2[i][j] != 0 && diagonal2) diagonal2 = 0;
+            else if (i == j && matriz2[i][j] == 0 && diagonal2) diagonal2 = 0;
         }
         printf("\n");
     }
