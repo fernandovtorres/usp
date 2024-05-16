@@ -1,14 +1,15 @@
 #include <stdio.h>
 #include <string.h>
 
-int main(){
-    int n; scanf(" %d", &n);
-    char mar[n][n];
+void ler(int n, char mar[n][n]) {
     for(int i = 0; i < n; i++){
         for(int j = 0; j < n; j++) {
             scanf(" %c", &mar[i][j]);
         }
     }
+}
+
+void jogar(int n, char mar[n][n]) {
     int a; scanf(" %d", &a);
     char coord[4];
     for(int i = 0; i < a; i++) {
@@ -25,10 +26,21 @@ int main(){
             printf("erro!\n");
         }
     }
+}
+
+void print(int n, char mar[n][n]) {
     for(int i = 0; i < n; i++){
         for(int j = 0; j < n; j++) {
             printf("%c ", mar[i][j]);
         }
         printf("\n");
     }
+}
+
+int main(){
+    int n; scanf(" %d", &n);
+    char mar[n][n];
+    ler(n, mar);
+    jogar(n, mar);
+    print(n, mar);
 }
