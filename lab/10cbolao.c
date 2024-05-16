@@ -1,13 +1,14 @@
 #include <stdio.h>
 
-int main() {
-    int n, m; scanf(" %d %d", &n, &m);
-    char matriz[n][m];
+void ler(int n, int m, char matriz[n][m]) {
     for(int i = 0; i < n; i++) {
         for(int j = 0; j < m; j++){
             scanf(" %c", &matriz[i][j]);
         }
     }
+}
+
+void tirarCosplayers(int n, int m, char matriz[n][m]) {
     for(int i = 0; i < n; i++) {
         for(int j = 0; j < m; j++){
             if (matriz[i][j] == 'c'){
@@ -23,23 +24,45 @@ int main() {
             }
         }
     }
-    int vaga = 0;
+}
+
+int verificarVaga(int n, int m, char matriz[n][m]) {
+    int d = 0;
     for(int i = 0; i < n; i++) {
         for(int j = 0; j < m; j++){
             if(matriz[i][j] == 'v') {
                 matriz[i][j] = 'o';
-                vaga = 1;
+                d = 1;
             }
         }
     }
+    return d;
+}
+
+void imprimirMatriz(int n, int m, char matriz[n][m]) {
+    for (int i = 0; i < n; i++){
+        for(int j = 0; j < m; j++){
+            printf("%c ", matriz[i][j]);
+        }
+        printf("\n");
+    }
+}
+
+int main() {
+    int n, m;
+    scanf(" %d %d", &n, &m);
+    char matriz[n][m];
+    
+    ler(n, m, matriz);
+    tirarCosplayers(n, m, matriz);
+    
+    int vaga = verificarVaga(n, m, matriz);
+    
     if (vaga) {
-        for (int i = 0; i < n; i++){
-             for(int j = 0; j < m; j++){
-                 printf("%c ", matriz[i][j]);
-            }
-            printf("\n");
-        }
+        imprimirMatriz(n, m, matriz);
+    } else {
+        printf("Eh um dia triste para os mono Yasuo");
     }
-    else printf("Eh um dia triste para os mono Yasuo");
+    
     return 0;
 }
