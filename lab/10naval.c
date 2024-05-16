@@ -1,9 +1,6 @@
 #include <stdio.h>
 #include <string.h>
 
-//Num = -48
-//Alfabeto Maiusculo = -65
-
 int main(){
     int n; scanf(" %d", &n);
     char mar[n][n];

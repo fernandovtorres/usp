@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+
+
 void sort(float *p, int n){
     for (int i = 0; i < n; i++) {
         for(int j = 0; j < n; j++) {
@@ -11,6 +13,7 @@ void sort(float *p, int n){
         }
     }
 }
+
 int main() {
     int n, m; scanf(" %d %d ", &n, &m);
     float media = 0, mediaexe[m];
