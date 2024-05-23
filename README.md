@@ -8,3 +8,7 @@
 - Daniel: dale daaale dale ô dale dale dale ô eu sou palmeiras sim senhor
 - Artur: o vinicius é mt legal e entende l.i.
 - jhonatan: compila no palacio mental.
+- Ryan: só muda a identação
+- BCC 25: fernando vetores eh phoda
+- joao goulart: procure comer cimento
+- Getulio Vargas: esse saba muito
