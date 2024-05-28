@@ -13,3 +13,4 @@
 - joao goulart: procure comer cimento
 - Getulio Vargas: esse saba muito
 - li: oiiiiiiiiiiii
+- da roca: uma vez flamengo, salve o corinthians #SANTÁSTICO
