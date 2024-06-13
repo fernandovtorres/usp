@@ -1,0 +1,145 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "GC",
+					"strict" : false
+				},
+				{
+					"name" : "AC",
+					"strict" : false
+				},
+				{
+					"name" : "BC",
+					"strict" : false
+				},
+				{
+					"name" : "CC",
+					"strict" : false
+				},
+				{
+					"name" : "DC",
+					"strict" : false
+				},
+				{
+					"name" : "EC",
+					"strict" : false
+				},
+				{
+					"name" : "FC",
+					"strict" : false
+				},
+				{
+					"name" : "AC2",
+					"strict" : false
+				},
+				{
+					"name" : "EC2",
+					"strict" : false
+				},
+				{
+					"name" : "FC2",
+					"strict" : false
+				},
+				{
+					"name" : "DC2",
+					"strict" : false
+				},
+				{
+					"name" : "GC3",
+					"strict" : false
+				},
+				{
+					"name" : "AC3",
+					"strict" : false
+				},
+				{
+					"name" : "BC3",
+					"strict" : false
+				},
+				{
+					"name" : "FC3",
+					"strict" : false
+				},
+				{
+					"name" : "GC4",
+					"strict" : false
+				},
+				{
+					"name" : "AC4",
+					"strict" : false
+				},
+				{
+					"name" : "BC4",
+					"strict" : false
+				},
+				{
+					"name" : "FC4",
+					"strict" : false
+				},
+				{
+					"name" : "CC3",
+					"strict" : false
+				},
+				{
+					"name" : "EC3",
+					"strict" : false
+				},
+				{
+					"name" : "DC3",
+					"strict" : false
+				},
+				{
+					"name" : "CC4",
+					"strict" : false
+				},
+				{
+					"name" : "DC4",
+					"strict" : false
+				},
+				{
+					"name" : "EC4",
+					"strict" : false
+				},
+				{
+					"name" : "A4",
+					"strict" : false
+				},
+				{
+					"name" : "B4",
+					"strict" : false
+				},
+				{
+					"name" : "A3",
+					"strict" : false
+				},
+				{
+					"name" : "B3",
+					"strict" : false
+				},
+				{
+					"name" : "A2",
+					"strict" : false
+				},
+				{
+					"name" : "B2",
+					"strict" : false
+				},
+				{
+					"name" : "Cin",
+					"strict" : false
+				},
+				{
+					"name" : "A1",
+					"strict" : false
+				},
+				{
+					"name" : "B1",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

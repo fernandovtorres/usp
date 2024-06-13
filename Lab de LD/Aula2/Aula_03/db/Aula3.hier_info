@@ -1,0 +1,17 @@
+|Aula3
+V1 <= inst3.DB_MAX_OUTPUT_PORT_TYPE
+S1 => inst3.IN0
+S1 => inst9.IN0
+S1 => inst6.IN1
+S1 => inst.IN0
+S1 => inst2.IN1
+S2 => inst7.IN0
+S2 => inst.IN1
+S2 => inst2.IN2
+S0 => inst50.IN0
+S0 => inst2.IN0
+V2 <= inst4.DB_MAX_OUTPUT_PORT_TYPE
+V3 <= inst5.DB_MAX_OUTPUT_PORT_TYPE
+Alarme <= inst11.DB_MAX_OUTPUT_PORT_TYPE
+
+

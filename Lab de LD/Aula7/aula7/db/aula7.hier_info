@@ -1,0 +1,18 @@
+|aula7
+A1 <= Block2:inst.S
+A => Block2:inst.A
+B => Block2:inst.B
+B1 <= Block2:inst.Bout
+
+
+|aula7|Block2:inst
+S <= inst255.DB_MAX_OUTPUT_PORT_TYPE
+A => inst254.IN0
+A => inst1.IN0
+B => inst254.IN1
+B => inst315.IN0
+Bin => inst255.IN1
+Bin => inst316.IN1
+Bout <= inst.DB_MAX_OUTPUT_PORT_TYPE
+
+

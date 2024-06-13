@@ -1,0 +1,173 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "GH3",
+					"strict" : false
+				},
+				{
+					"name" : "AH3",
+					"strict" : false
+				},
+				{
+					"name" : "BH3",
+					"strict" : false
+				},
+				{
+					"name" : "CH3",
+					"strict" : false
+				},
+				{
+					"name" : "DH3",
+					"strict" : false
+				},
+				{
+					"name" : "EH3",
+					"strict" : false
+				},
+				{
+					"name" : "FH3",
+					"strict" : false
+				},
+				{
+					"name" : "GH4",
+					"strict" : false
+				},
+				{
+					"name" : "AH4",
+					"strict" : false
+				},
+				{
+					"name" : "BH4",
+					"strict" : false
+				},
+				{
+					"name" : "CH4",
+					"strict" : false
+				},
+				{
+					"name" : "DH4",
+					"strict" : false
+				},
+				{
+					"name" : "EH4",
+					"strict" : false
+				},
+				{
+					"name" : "FH4",
+					"strict" : false
+				},
+				{
+					"name" : "SIGN",
+					"strict" : false
+				},
+				{
+					"name" : "SignA",
+					"strict" : false
+				},
+				{
+					"name" : "SignB",
+					"strict" : false
+				},
+				{
+					"name" : "FH1",
+					"strict" : false
+				},
+				{
+					"name" : "EH1",
+					"strict" : false
+				},
+				{
+					"name" : "DH1",
+					"strict" : false
+				},
+				{
+					"name" : "CH1",
+					"strict" : false
+				},
+				{
+					"name" : "BH1",
+					"strict" : false
+				},
+				{
+					"name" : "AH1",
+					"strict" : false
+				},
+				{
+					"name" : "GH1",
+					"strict" : false
+				},
+				{
+					"name" : "FH2",
+					"strict" : false
+				},
+				{
+					"name" : "EH2",
+					"strict" : false
+				},
+				{
+					"name" : "DH2",
+					"strict" : false
+				},
+				{
+					"name" : "CH2",
+					"strict" : false
+				},
+				{
+					"name" : "BH2",
+					"strict" : false
+				},
+				{
+					"name" : "AH2",
+					"strict" : false
+				},
+				{
+					"name" : "GH2",
+					"strict" : false
+				},
+				{
+					"name" : "A2",
+					"strict" : false
+				},
+				{
+					"name" : "A1",
+					"strict" : false
+				},
+				{
+					"name" : "A3",
+					"strict" : false
+				},
+				{
+					"name" : "A0",
+					"strict" : false
+				},
+				{
+					"name" : "B2",
+					"strict" : false
+				},
+				{
+					"name" : "B1",
+					"strict" : false
+				},
+				{
+					"name" : "B3",
+					"strict" : false
+				},
+				{
+					"name" : "B0",
+					"strict" : false
+				},
+				{
+					"name" : "SA",
+					"strict" : false
+				},
+				{
+					"name" : "SB",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

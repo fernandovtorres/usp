@@ -1,0 +1,241 @@
+|aula8
+Sign <= inst20.DB_MAX_OUTPUT_PORT_TYPE
+A3 => aula7:inst3.A
+A3 => aula5:inst980941.Dois0
+B3 => aula7:inst3.B
+B3 => aula5:inst1983271732.Dois0
+A2 => aula7:inst2.A
+A2 => aula5:inst980941.Dois1
+B2 => aula7:inst2.B
+B2 => aula5:inst1983271732.Dois1
+A1 => aula7:inst1.A
+A1 => aula5:inst980941.Dois2
+B1 => aula7:inst1.B
+B1 => aula5:inst1983271732.Dois2
+A0 => aula7:inst3232322.A
+A0 => aula5:inst980941.Dois3
+B0 => aula7:inst3232322.B
+B0 => aula5:inst1983271732.Dois3
+GH1 <= aula5:inst10.G
+AH1 <= aula5:inst10.A
+BH1 <= aula5:inst10.B
+CH1 <= aula5:inst10.C
+DH1 <= aula5:inst10.D
+EH1 <= aula5:inst10.E
+FH1 <= aula5:inst10.F
+GH2 <= aula5:inst980941.G
+AH2 <= aula5:inst980941.A
+BH2 <= aula5:inst980941.B
+CH2 <= aula5:inst980941.C
+DH2 <= aula5:inst980941.D
+EH2 <= aula5:inst980941.E
+FH2 <= aula5:inst980941.F
+GH3 <= aula5:inst1983271732.G
+AH3 <= aula5:inst1983271732.A
+BH3 <= aula5:inst1983271732.B
+CH3 <= aula5:inst1983271732.C
+DH3 <= aula5:inst1983271732.D
+EH3 <= aula5:inst1983271732.E
+FH3 <= aula5:inst1983271732.F
+
+
+|aula8|aula7:inst3
+S <= inst255.DB_MAX_OUTPUT_PORT_TYPE
+A => inst254.IN0
+A => inst1.IN0
+B => inst254.IN1
+B => inst315.IN0
+Bin => inst255.IN1
+Bin => inst316.IN1
+Bout <= inst.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|aula8|aula7:inst2
+S <= inst255.DB_MAX_OUTPUT_PORT_TYPE
+A => inst254.IN0
+A => inst1.IN0
+B => inst254.IN1
+B => inst315.IN0
+Bin => inst255.IN1
+Bin => inst316.IN1
+Bout <= inst.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|aula8|aula7:inst1
+S <= inst255.DB_MAX_OUTPUT_PORT_TYPE
+A => inst254.IN0
+A => inst1.IN0
+B => inst254.IN1
+B => inst315.IN0
+Bin => inst255.IN1
+Bin => inst316.IN1
+Bout <= inst.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|aula8|aula7:inst3232322
+S <= inst255.DB_MAX_OUTPUT_PORT_TYPE
+A => inst254.IN0
+A => inst1.IN0
+B => inst254.IN1
+B => inst315.IN0
+Bin => inst255.IN1
+Bin => inst316.IN1
+Bout <= inst.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|aula8|aula5:inst10
+A <= inst7.DB_MAX_OUTPUT_PORT_TYPE
+Dois0 => inst93.IN0
+Dois0 => inst89.IN0
+Dois0 => inst53.IN0
+Dois0 => inst52.IN0
+Dois0 => inst16.IN0
+Dois0 => inst24.IN0
+Dois0 => inst38.IN0
+Dois0 => inst62.IN0
+Dois3 => inst93.IN1
+Dois3 => inst5.IN1
+Dois3 => inst2.IN0
+Dois3 => inst56.IN3
+Dois3 => inst52.IN2
+Dois3 => inst20.IN2
+Dois3 => inst23.IN1
+Dois3 => inst29.IN0
+Dois3 => inst35.IN0
+Dois3 => inst40.IN1
+Dois3 => inst63.IN3
+Dois3 => inst65.IN3
+Dois1 => inst6.IN0
+Dois1 => inst5.IN0
+Dois1 => inst.IN0
+Dois1 => inst53.IN1
+Dois1 => inst56.IN1
+Dois1 => inst1.IN0
+Dois1 => inst16.IN1
+Dois1 => inst21.IN1
+Dois1 => inst31.IN1
+Dois1 => inst38.IN1
+Dois1 => inst63.IN1
+Dois1 => inst62.IN1
+Dois2 => inst6.IN1
+Dois2 => inst3.IN0
+Dois2 => inst.IN1
+Dois2 => inst52.IN1
+Dois2 => inst15.IN2
+Dois2 => inst18.IN1
+Dois2 => inst24.IN1
+Dois2 => inst23.IN0
+Dois2 => inst34.IN1
+Dois2 => inst63.IN2
+B <= inst55.DB_MAX_OUTPUT_PORT_TYPE
+C <= inst19.DB_MAX_OUTPUT_PORT_TYPE
+D <= inst28.DB_MAX_OUTPUT_PORT_TYPE
+E <= inst33.DB_MAX_OUTPUT_PORT_TYPE
+F <= inst41.DB_MAX_OUTPUT_PORT_TYPE
+G <= inst61.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|aula8|aula5:inst980941
+A <= inst7.DB_MAX_OUTPUT_PORT_TYPE
+Dois0 => inst93.IN0
+Dois0 => inst89.IN0
+Dois0 => inst53.IN0
+Dois0 => inst52.IN0
+Dois0 => inst16.IN0
+Dois0 => inst24.IN0
+Dois0 => inst38.IN0
+Dois0 => inst62.IN0
+Dois3 => inst93.IN1
+Dois3 => inst5.IN1
+Dois3 => inst2.IN0
+Dois3 => inst56.IN3
+Dois3 => inst52.IN2
+Dois3 => inst20.IN2
+Dois3 => inst23.IN1
+Dois3 => inst29.IN0
+Dois3 => inst35.IN0
+Dois3 => inst40.IN1
+Dois3 => inst63.IN3
+Dois3 => inst65.IN3
+Dois1 => inst6.IN0
+Dois1 => inst5.IN0
+Dois1 => inst.IN0
+Dois1 => inst53.IN1
+Dois1 => inst56.IN1
+Dois1 => inst1.IN0
+Dois1 => inst16.IN1
+Dois1 => inst21.IN1
+Dois1 => inst31.IN1
+Dois1 => inst38.IN1
+Dois1 => inst63.IN1
+Dois1 => inst62.IN1
+Dois2 => inst6.IN1
+Dois2 => inst3.IN0
+Dois2 => inst.IN1
+Dois2 => inst52.IN1
+Dois2 => inst15.IN2
+Dois2 => inst18.IN1
+Dois2 => inst24.IN1
+Dois2 => inst23.IN0
+Dois2 => inst34.IN1
+Dois2 => inst63.IN2
+B <= inst55.DB_MAX_OUTPUT_PORT_TYPE
+C <= inst19.DB_MAX_OUTPUT_PORT_TYPE
+D <= inst28.DB_MAX_OUTPUT_PORT_TYPE
+E <= inst33.DB_MAX_OUTPUT_PORT_TYPE
+F <= inst41.DB_MAX_OUTPUT_PORT_TYPE
+G <= inst61.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|aula8|aula5:inst1983271732
+A <= inst7.DB_MAX_OUTPUT_PORT_TYPE
+Dois0 => inst93.IN0
+Dois0 => inst89.IN0
+Dois0 => inst53.IN0
+Dois0 => inst52.IN0
+Dois0 => inst16.IN0
+Dois0 => inst24.IN0
+Dois0 => inst38.IN0
+Dois0 => inst62.IN0
+Dois3 => inst93.IN1
+Dois3 => inst5.IN1
+Dois3 => inst2.IN0
+Dois3 => inst56.IN3
+Dois3 => inst52.IN2
+Dois3 => inst20.IN2
+Dois3 => inst23.IN1
+Dois3 => inst29.IN0
+Dois3 => inst35.IN0
+Dois3 => inst40.IN1
+Dois3 => inst63.IN3
+Dois3 => inst65.IN3
+Dois1 => inst6.IN0
+Dois1 => inst5.IN0
+Dois1 => inst.IN0
+Dois1 => inst53.IN1
+Dois1 => inst56.IN1
+Dois1 => inst1.IN0
+Dois1 => inst16.IN1
+Dois1 => inst21.IN1
+Dois1 => inst31.IN1
+Dois1 => inst38.IN1
+Dois1 => inst63.IN1
+Dois1 => inst62.IN1
+Dois2 => inst6.IN1
+Dois2 => inst3.IN0
+Dois2 => inst.IN1
+Dois2 => inst52.IN1
+Dois2 => inst15.IN2
+Dois2 => inst18.IN1
+Dois2 => inst24.IN1
+Dois2 => inst23.IN0
+Dois2 => inst34.IN1
+Dois2 => inst63.IN2
+B <= inst55.DB_MAX_OUTPUT_PORT_TYPE
+C <= inst19.DB_MAX_OUTPUT_PORT_TYPE
+D <= inst28.DB_MAX_OUTPUT_PORT_TYPE
+E <= inst33.DB_MAX_OUTPUT_PORT_TYPE
+F <= inst41.DB_MAX_OUTPUT_PORT_TYPE
+G <= inst61.DB_MAX_OUTPUT_PORT_TYPE
+
+

@@ -1,0 +1,17 @@
+|Aula4
+CF <= inst.DB_MAX_OUTPUT_PORT_TYPE
+SF => inst.IN0
+SF => inst8.IN0
+SF => inst4.IN0
+SF => inst5.IN0
+SF => inst3.IN0
+CE <= inst8.DB_MAX_OUTPUT_PORT_TYPE
+SD => inst8.IN1
+SD => inst7.IN0
+SD => inst6.IN0
+SE => inst1.IN0
+SE => inst4.IN1
+SE => inst3.IN1
+CD <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+
+

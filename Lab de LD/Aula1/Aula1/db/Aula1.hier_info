@@ -1,0 +1,15 @@
+|Aula1
+LED <= R.DB_MAX_OUTPUT_PORT_TYPE
+C => BCOR.IN0
+C => BCAND.IN1
+B => BCOR.IN1
+B => BCAND.IN0
+B => AR.IN1
+A => AR.IN0
+LED2 <= inst15.DB_MAX_OUTPUT_PORT_TYPE
+B2 => inst14.IN0
+B2 => inst.IN1
+C2 => inst14.IN1
+A2 => inst.IN0
+
+

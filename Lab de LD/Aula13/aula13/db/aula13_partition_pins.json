@@ -1,0 +1,125 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "GH0",
+					"strict" : false
+				},
+				{
+					"name" : "AH0",
+					"strict" : false
+				},
+				{
+					"name" : "BH0",
+					"strict" : false
+				},
+				{
+					"name" : "CH0",
+					"strict" : false
+				},
+				{
+					"name" : "DH0",
+					"strict" : false
+				},
+				{
+					"name" : "EH0",
+					"strict" : false
+				},
+				{
+					"name" : "FH0",
+					"strict" : false
+				},
+				{
+					"name" : "GH1",
+					"strict" : false
+				},
+				{
+					"name" : "AH1",
+					"strict" : false
+				},
+				{
+					"name" : "BH1",
+					"strict" : false
+				},
+				{
+					"name" : "CH1",
+					"strict" : false
+				},
+				{
+					"name" : "DH1",
+					"strict" : false
+				},
+				{
+					"name" : "EH1",
+					"strict" : false
+				},
+				{
+					"name" : "FH1",
+					"strict" : false
+				},
+				{
+					"name" : "Equals",
+					"strict" : false
+				},
+				{
+					"name" : "AgrtB",
+					"strict" : false
+				},
+				{
+					"name" : "BgrtA",
+					"strict" : false
+				},
+				{
+					"name" : "SAO",
+					"strict" : false
+				},
+				{
+					"name" : "SBO",
+					"strict" : false
+				},
+				{
+					"name" : "A3",
+					"strict" : false
+				},
+				{
+					"name" : "A1",
+					"strict" : false
+				},
+				{
+					"name" : "A2",
+					"strict" : false
+				},
+				{
+					"name" : "A4",
+					"strict" : false
+				},
+				{
+					"name" : "B3",
+					"strict" : false
+				},
+				{
+					"name" : "B1",
+					"strict" : false
+				},
+				{
+					"name" : "B2",
+					"strict" : false
+				},
+				{
+					"name" : "B4",
+					"strict" : false
+				},
+				{
+					"name" : "SA",
+					"strict" : false
+				},
+				{
+					"name" : "SB",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
