@@ -63,7 +63,7 @@ Circuito que divide, wowowowowowowo, não tem muito o que comentar, é uma seque
 --> inserir imagem <--
 
 ## Aula 12
-Raiz quadrada, 8 bits de entrada, delbem calculando de cabeça, cinema
+Raiz quadrada, 8 bits de entrada, saída no display com o resultado e um resto, delbem calculando tudo de cabeça em uma velocidade impressionante, simplesmente cinema
 
 --> inserir imagem <--
 
