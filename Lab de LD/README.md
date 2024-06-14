@@ -43,7 +43,7 @@ Mesmo coisa da aula 5, mas agora é um subtrator (complemento de 2 😨)
 --> inserir imagem <--
 
 ## Aula 8
-Mesma coisa da aula 6, mas é um subtrator, lembre se de fazer um complemento de 2 de novo caso o um bout seja 1
+Mesma coisa da aula 6, mas agora é um subtrator, lembre se de fazer um complemento de 2 de novo caso o um bout seja 1
 
 --> inserir imagem <--
 
