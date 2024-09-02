@@ -1,0 +1,12 @@
+Um determinado estacionamento de carros tem o formato de corredor e possui capacidade para
+dez carros. Infelizmente, há apenas uma passagem de acesso aos carros, localizada em uma das
+extremidades do corredor. Quando um cliente decide retirar um carro, os outros carros impedindo
+sua saída deverão são retirados antes. Após o cliente retirar seu carro, os outros carros são
+estacionados novamente, mantendo a ordem em que estavam antes da remoção daquele carro.
+Escreva o TAD e implemente as operações necessárias para processar o fluxo de chegada/saída
+deste estacionamento (int estaciona_carro(char* placa) / int
+retira_carro(char* placa)), considerando que um carro é identificado pela placa. O
+valor de retorno das funções estaciona_carro e retira_carro indicam se a operação
+teve sucesso (valor 1) ou falhou (valor 0).
+
+-> Two Stacks seems to work <-

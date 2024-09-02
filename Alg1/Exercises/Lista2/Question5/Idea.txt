@@ -1,0 +1,11 @@
+Considere três pilhas A, B e C, e os comandos void empilha(Pilha *p, Elemento
+e) e Elemento *desempilha(Pilha *p) que, como os nomes sugerem, servem para
+empilhar e desempilhar elementos de uma determinada pilha. Supondo que as pilhas estão
+inicialmente na seguinte configuração:
+
+e que, em nenhum momento um elemento com ID maior pode estar empilhado sobre um
+elemento de ID menor. Descreva a sequência de comandos (utilize a menor quantidade de
+operações possível) empilha/desempilha necessários para que a configuração de A, B e C
+passe a ser:
+
+-> Hanoi <-

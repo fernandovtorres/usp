@@ -1,0 +1,5 @@
+Escreva um algoritmo para determinar se uma string de caracteres de entrada é da forma a^nb^n tal
+que n é um número inteiro maior ou igual zero. Exemplo de strings na forma anbn: ab, aabb,
+aaabbb. Não é permitido realizar qualquer tipo de contagem de caracteres da string de entrada.
+
+-> a = insert b; b = pop(); verify if the stack is empty; (maybe a flag when b's starts to avoid aba) <-

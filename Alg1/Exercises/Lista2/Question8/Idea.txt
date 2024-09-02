@@ -1,0 +1,5 @@
+Escreva um algoritmo que use uma pilha para inverter a ordem das letras de cada palavra de uma
+string, preservando a ordem das palavras. Por exemplo, dado o texto ESTE EXERCICIO E
+MUITO FACIL a saída deve ser ETSE OICICREXE E OTIUM LICAF.
+
+-> insert letters, when space or end, pop and print <-

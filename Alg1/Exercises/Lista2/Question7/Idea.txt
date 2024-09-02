@@ -1,0 +1,9 @@
+Implemente uma calculadora polonesa usando pilha com alocação estática. O programa deve ler
+um arquivo com uma sequência de expressões em notação polonesa, calcular e imprimir os
+resultados (na saída padrão). Notação Polonesa é uma forma de notação para lógica, aritmética e
+álgebra em que os operadores devem preceder os valores, a notação polonesa de soma é: + 1 2.
+Quanto mais "interna" a operação, antes ela deve ser executada. Então, as expressões: * + 1 2 3
+seria calculado como (1 + 2) * 3; * 3 + 1 2 seria calculado como 3 * (1 + 2)
+
+> Two Stacks. one for operations, another for the numbers; the numbers stack has a max size of 2; 
+When it reaches the max, pop the numbers and one operation and insert the result on the number stack <-

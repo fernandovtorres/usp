@@ -1,0 +1,5 @@
+Na seguinte sequência, uma letra significa ‘empilha(letra)’ e um asterisco significa ‘desempilha’.
+Dê a sequência de valores devolvidos pelas operações desempilha quando esta sequência de
+operações é realizada em uma pilha inicialmente vazia.
+
+-> follow the question wording <-

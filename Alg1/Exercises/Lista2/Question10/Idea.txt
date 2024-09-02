@@ -1,0 +1,7 @@
+Escreva o TAD de uma estrutura de dados chamada Pilha Dupla. Esta estrutura de dados deve
+oferecer a funcionalidade de duas pilhas distintas A e B (alocação sequencial) que devem ser
+armazenadas em um único vetor compartilhado de tamanho M. Implemente as operações de
+empilha/desempilha do TAD Pilha Dupla de tal forma que a soma das quantidades de elementos
+em A e B não extrapole M e que, tanto A quanto B possam armazenar até M elementos
+
+-> Make the stacks begin in the endpoints <-
