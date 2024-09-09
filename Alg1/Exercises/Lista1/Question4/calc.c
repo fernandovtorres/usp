@@ -11,3 +11,4 @@ double div(double n1, double n2) {
     return 0;
   }
   return n1 / n2;
+}
